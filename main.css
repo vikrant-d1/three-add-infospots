@@ -1,0 +1,25 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+.btn_code_block {
+    box-sizing: border-box;
+    background-color: #fff;
+    padding: 0.8rem;
+    border-radius: 22px;
+    text-align: center;
+    text-decoration: none;
+    color: #000000c9;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-transform: uppercase;
+    display: block;
+    position: fixed;
+    bottom: 1.5rem;
+    right: 30px;
+}
